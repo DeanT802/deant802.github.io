@@ -196,6 +196,20 @@ section h3::after {
 .col-8 a:hover img {
 	transform: scale(1.1);
 }
+.col-T {
+	width:25%;
+	box-sizing: border-box;
+	padding:5px;
+	float: left;
+	text-align: center;
+	margin-bottom: 15px;
+}
+.col-T img {
+	width:100%;
+}
+.col-T a:hover img {
+	transform: scale(1.1);
+}
 .col-6 {
 	width:33.33%;
 	box-sizing: border-box;
